@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Busca Libros</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_book_detail">Detalles de Libro</string>
+    <string name="author">Autor</string>
+    <string name="title">Título</string>
+    <string name="cover">Portada del Libro</string>
+    <string name="publishedBy">Publicado por</string>
+</resources>

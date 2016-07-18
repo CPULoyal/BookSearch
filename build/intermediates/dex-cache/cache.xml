@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_ad6401ffb7561bac00b8a110dc43c7252479ad5d.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6_619ce0a68d7c908ec9c2ed3486b427f1946edd22.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_38f06406fd02f4de1f46826d1272f36b2a1e4c9f.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_82a3887eabb4efe98a902ffa140d7f95ea3f9c99.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_9143cdde07518150b0a2c1a3e9410a9b2a791eb0.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_c8626576fe95d75ee9012ead02dd155dd0623a13.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_58e5b0c6669e9342b5cd9ca388eb60371e7cab35.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_5afb4c927fa9d280f8f0e978de67e7cdc28da062.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_5a384f9fdfdb8fb543e9c501a0cd76b1e5bf1dfc.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_07cfc361eeac075cea55eb95feeeca6a3e8bf993.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="15b91f4c5b3af9abe299cf0f0c3af8a8fd06c56c">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1a9938b3b5ce8ea8d728159b1f0779b43d8e9fb1.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="16f80e1baa91289de7a9e658ef6e36fbae311710">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/instant-run_9f66c4e26fdf76c64dfde8ebffa3b0373ca095c1.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_276060c0944ff49f3d8b0b6775bbeaffdfc000e2.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_792293e19a9f5d84cd2a3746c2d3a61ccaf8f297.jar" />
+    </item>
+    <item
+        jar="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/blamagroth/AndroidStudioProjects/BuscaLibros/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_cf50fcad918c54033a87f83376ac94bea85fff1b.jar" />
+    </item>
+
+</items>
